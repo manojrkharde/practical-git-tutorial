@@ -1,2 +1,5 @@
 Chapter 1 - The Beginning
 We need to study and understand how GIT works
+
+
+It was the best of times, it was the worst of times
